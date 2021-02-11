@@ -32,6 +32,7 @@ public class Main {
                 System.out.print(n+" ");
             }            
             f.close();
+            
         } catch (IOException ex) {
             System.out.println("ERRO NA CRIAÇÃO DO FICHEIRO.");
         }
@@ -40,9 +41,7 @@ public class Main {
         
         // 2. COMPLETAR O EXEMPLO DE FORMA A QUE OS NOVOS NÚMEROS SEJAM
         //    ADICIONADOS AO FIM DO FICHEIRO.
-        
-        // TESTE DE ALTERAÇÃO
-        
+                
         
     }
 
